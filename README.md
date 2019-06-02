@@ -1,13 +1,28 @@
-# pyhasse-notebooks
+# pyhasse-notebooks 
 
 Collection of Jupyter notebooks with examples using PyHasse modules.
 
-## Usage:
+### Usage:
 
-1. Use a local copy.
-2. Run notebooks with Binder services.
+- Use a local copy.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cursorius-cursor/pyhasse-notebooks.git/master)
+   Create a virtual environment and clone the repository from GitHub:
+   
+      
+    ```shell
 
-Projekt: https://pyhasse.org
+    git clone https://github.com/cursorius-cursor/pyhasse-notebooks.git
+    cd pyhasse-notebooks
+    pip install -r requirements.txt
+    jupyter notebook
+
+    ```
+
+- Run notebooks with Binder services.
+
+   [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cursorius-cursor/pyhasse-notebooks.git/master)
+
+- Projektsite
+   
+   https://pyhasse.org
 
