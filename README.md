@@ -22,7 +22,7 @@ Collection of Jupyter notebooks with examples using PyHasse modules.
 
    [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cursorius-cursor/pyhasse-notebooks.git/master)
 
-- Projektsite
+- Projectsite
    
    https://pyhasse.org
 
