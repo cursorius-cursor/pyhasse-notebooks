@@ -1,0 +1,12 @@
+test	q1	q2	q3
+a	1	1	2
+b	1	1	2
+c	3	2	1
+d	1	2	3
+e	4	4	4
+f	1	1	2
+g	4	4	4
+h	9	9	9
+=====
+<p>fictitious data set</p>
+
