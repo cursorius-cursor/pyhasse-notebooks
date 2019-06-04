@@ -93,7 +93,9 @@ def draw_hasse(type, data_dict):
                 ''')
 
     data_str = ''
+
     for key, value in data_dict.items():
+
         data_str += "var " + key + " = " + json.dumps(value) + ";\n"
 
     divnum = int(random.uniform(0, 9999999999))
