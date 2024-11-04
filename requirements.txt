@@ -1,4 +1,3 @@
-notebook
 pyhasse.acm==0.2.8
 pyhasse.core==0.2.2
 pyhasse.fuzzy==0.1.1
